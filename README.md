@@ -1,5 +1,4 @@
 # Assignment-7-Matlab
-# Data Visualization Project: Iris & Loan Data Analysis
 
 ## Project Overview
 The purpose of this project is to perform exploratory data analysis (EDA) using Python and the Matplotlib library. The project is divided into two main tasks:
